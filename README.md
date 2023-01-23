@@ -17,10 +17,10 @@ An official RPG Maker MZ licence is also required.
 
 ## Requirements
 1. [MMORPG Maker MZ](https://github.com/Andaroth/MMORPGMaker-MZ) code from the `master` branch
-2. The whole ABSZ engine & requirements from [Phoenix Kage Desu's Boosty](https://boosty.to/kagedesu)
+2. The whole Animax engine & requirements from [Phoenix Kage Desu's Boosty](https://boosty.to/kagedesu)
 
 ## Installation
-1. Download `Alpha ABSZ` plugin from Phoenix Kage Desu's patreon and install it in your project
+1. Download `Animax` plugin from Phoenix Kage Desu's patreon and install it in your project
 
 2. Copy the files from our `MMOMZ-PKD-ANIMAX/modules/player` to your MMORPG Maker MZ project `server/modiles/player` folder, override the old ones
 
