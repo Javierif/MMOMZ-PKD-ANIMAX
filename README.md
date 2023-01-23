@@ -1,5 +1,5 @@
 # MMOMZ-PKD-ANIMAX
-Backend support for real-time Action Battle System (MMORPG Maker MZ)
+Backend support for PKD Animax Plugin (MMORPG Maker MZ)
 
 Please consider contributing to this project by submitting your pull requests. 
 
@@ -31,7 +31,7 @@ An official RPG Maker MZ licence is also required.
 5. Now your animations will be in sync! 
 
 
-*More coming soon. Please read the comments in our code & the PKD documentation*
+<!-- *More coming soon. Please read the comments in our code & the PKD documentation* -->
 
 ---
 
